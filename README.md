@@ -5,7 +5,8 @@ Determine the most optimal mode of transportation per origin port per service le
 
 **METHODOLOGY**\
 Analyze the data using tableau dashboard
-Tableau link: https://public.tableau.com/app/profile/harriette.amores/viz/LogisticsAnalysis_17460806922340/Dashboard1
+
+Tableau link: [Logistics Analysis | Tableau Public](https://public.tableau.com/app/profile/harriette.amores/viz/LogisticsAnalysis_17460806922340/Dashboard1)
 
 **CONCLUSION**
 
